@@ -1,0 +1,43 @@
+I believe this is a proper file structure ....
+
+res://
+  Scenes(tscn)
+  Textures(png)
+  Shaders(shader)
+  Scenes(tscn)
+  Assets
+  Scripts(gd)
+  Music(wav)
+  Environments(tres)
+  
+I believe this will be a proper structure for parent and child nodes ...
+
+3d Spatial(Game)
+Control(Ui)
+CSG Sphere(Planet Earth)
+3d Spatial(Planet Earth Playing Feild)
+  World Environment
+    Directional Light
+  Kinematic Body(Player)
+    Cam Node
+    Camera
+    Body
+    Body Collision Shape
+    Camera Collision Shape
+    Audio Stream Player
+  Voxel Lod Terrain
+  Mesh Instance(Water)
+
+CSG Sphere(Planet Procedural)
+3d Spatial(Planet Procedural Playing Feild)
+  World Environment
+    Directional Light
+  Kinematic Body(Player)
+    Cam Node
+    Camera
+    Body
+    Body Collision Shape
+    Camera Collision Shape
+    Audio Stream Player
+  Voxel Lod Terrain
+  Mesh Instance(Water)
