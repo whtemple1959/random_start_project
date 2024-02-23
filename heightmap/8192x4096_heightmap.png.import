@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/8192x4096_heightmap.png-d11d5a10af4a09c31f9aec77826203ae.image"
+
+[deps]
+
+source_file="res://heightmap/8192x4096_heightmap.png"
+dest_files=[ "res://.import/8192x4096_heightmap.png-d11d5a10af4a09c31f9aec77826203ae.image" ]
+
+[params]
+
