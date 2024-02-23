@@ -5,7 +5,7 @@ My background ...
 I am a certified bookkeeper.
 I have 6 years of college but was never focused enough to obtain a degree,
 I enjoy playing a certain open source strategy game(which will remain nameless)
-The game is great yet it has some quirks which trigger my ocd, add, and at times my ptsd
+The game is great yet it has some quirks which trigger my ocd, add, and at times my ptsd.
 To be honest, although I love math I do not believe I have the proper mind-set to become a skilled coder/programmer so I am simply attempting to bull my way through and learn enough to get something working and hope that the open source community will help fill in the blanks.
 
 I have 2 goals ...
@@ -25,13 +25,13 @@ Arcane Hive Games -  I find his tutorials on clouds and day/night cycle to be ve
 
 Sevasson -  Has the beginnings of a very nice city builder I hope he opens it up and expands on it. I would like to see an interface which will allow the player to use it while in the game as well as using perlin noise to generate random cities at the beginning of the game.
 
-Nuno Donato – Has a good tutorial on using splat maps, which will be needed in the real world heightmap part of my game
+Nuno Donato – Has a good tutorial on using splat maps, but clear knoweldge of programming is required but is could be helpful in the real world heightmap part of my game
 
 In my game there will be 2 forks at the start ..
 1 -  use a heightmap
 2 – use a procedural map, which will require integrated options to send information to the map generator to adjust items such as mountains, hills, lakes, and rivers.
 
-Furthermore there will need to be an interface to control the procedural placement of vegetation, and the a fore mentioned cities.
+Furthermore there will need to be an interface to control the procedural placement of vegetation, and the afore mentioned cities.
 
 At one time I had an open source python code snip-it which would place obelisks at assigned coordinates. Due to a fire and the loss of my old pc I have lost that snip-it, the one thing not properly backed up.
 But one thing that is troubling me is since I am using real world heightmaps how will I align the Godot game grid to the l & l coordinates of earth? One of many questions I must resolve.
